@@ -2,7 +2,7 @@
 
 ## 📝 Overview
 
-![Architecture](image.png){width="75%"}
+<img src="image.png" alt="Architecture" width="75%">
 
 IteRPrimE is a novel framework for zero-shot referring image segmentation that leverages an Iterative Grad-CAM Refinement Strategy (IGRS) and a Primary Word Emphasis Module (PWEM) to improve localization accuracy—especially in cases with complex spatial descriptions. By using pre-trained vision-language models, IteRPrimE eliminates the need for further training or fine-tuning, achieving state-of-the-art performance on benchmarks such as RefCOCO, RefCOCO+, RefCOCOg, and PhraseCut.
 
