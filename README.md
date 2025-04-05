@@ -142,5 +142,12 @@ We appreciate the support from our collaborators and funding agencies. Stay tune
 We would also like to express our gratitude to the authors of [GroundVLP](https://github.com/om-ai-lab/GroundVLP) and [Mask2Former](https://github.com/facebookresearch/Mask2Former) for their inspiring work and open-source contributions, which served as valuable references for this project.
 
 
-
+```
+@article{wang2025iterprime,
+  title={IteRPrimE: Zero-shot Referring Image Segmentation with Iterative Grad-CAM Refinement and Primary Word Emphasis},
+  author={Wang, Yuji and Ni, Jingchen and Liu, Yong and Yuan, Chun and Tang, Yansong},
+  journal={arXiv preprint arXiv:2503.00936},
+  year={2025}
+}
+```
 
