@@ -50,10 +50,10 @@ mkdir data
 
 Download the following pretrained model weights and place them in the checkpoints folder. You can download them directly from the given links.
 
-- **Mask2Former weights:** 
-- **ALBEF weights:**
-- **Stanza weights:**
-- **BERT-base-uncased weights:**
+- **Mask2Former weights:** [model_final_f07440.pkl](https://pan.baidu.com/s/1phxTevS--Pe-3p611Pt75g) [pt6z] 
+- **ALBEF weights:** [ALBEF.pth](https://pan.baidu.com/s/1GlO1LIjjvp_G5fb7z49VJQ) [8u5y] 
+- **Stanza weights:** [pweight.zip](https://pan.baidu.com/s/1P1bHVgiRUGsm1bWzcCy5-w) [6f84] 
+- **BERT-base-uncased weights:** [bert-base-uncased.zip](https://pan.baidu.com/s/1l9afrG0tgAHDArh6ON3ieA)[bggq] 
 
 After downloading, extract the weight files (if in a compressed format) into the checkpoints folder. Your folder structure should look like this:
 
@@ -72,7 +72,7 @@ After downloading, extract the weight files (if in a compressed format) into the
 
 Download the COCO dataset from the provided link and place it in the data folder.
 
-- **COCO dataset:**
+- **COCO dataset:** [coco.zip](https://pan.baidu.com/s/1MxNHMRmlkqLqsd9MWFWHpQ) [egus] 
 
 After downloading, extract the coco.zip file to the data folder. The final directory structure should look like this:
 
@@ -127,10 +127,10 @@ If you encounter any issues or have questions, feel free to open an issue or sta
 If you use IteRPrimE in your research, please cite our paper:
 
 ```
-@inproceedings{wang2025iterprime,
+@article{wang2025iterprime,
   title={IteRPrimE: Zero-shot Referring Image Segmentation with Iterative Grad-CAM Refinement and Primary Word Emphasis},
   author={Wang, Yuji and Ni, Jingchen and Liu, Yong and Yuan, Chun and Tang, Yansong},
-  booktitle={Proceedings of AAAI},
+  journal={arXiv preprint arXiv:2503.00936},
   year={2025}
 }
 ```
@@ -140,14 +140,3 @@ If you use IteRPrimE in your research, please cite our paper:
 We appreciate the support from our collaborators and funding agencies. Stay tuned for updates—the full code release will be coming soon!
 
 We would also like to express our gratitude to the authors of [GroundVLP](https://github.com/om-ai-lab/GroundVLP) and [Mask2Former](https://github.com/facebookresearch/Mask2Former) for their inspiring work and open-source contributions, which served as valuable references for this project.
-
-
-```
-@article{wang2025iterprime,
-  title={IteRPrimE: Zero-shot Referring Image Segmentation with Iterative Grad-CAM Refinement and Primary Word Emphasis},
-  author={Wang, Yuji and Ni, Jingchen and Liu, Yong and Yuan, Chun and Tang, Yansong},
-  journal={arXiv preprint arXiv:2503.00936},
-  year={2025}
-}
-```
-
